@@ -45,7 +45,7 @@
     "electron-prebuilt": "^0.35.4",
     "express": "^4.13.3",
     "fix-path": "^1.1.0",
-    "fs-extra": "^0.23.1",
+    "fs-extra": "^0.30.0",
     "handlebars": "^4.0.4",
     "highlight.js": "^8.9.1",
     "jade": "^1.11.0",
